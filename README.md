@@ -9,7 +9,4 @@ https://github.com/kajsap/git-activity-1
 
 ----Repos linked here-----
 
-https://github.com/Eiznek-II/scavenger-hunt
-<br>
-https://github.com/Eiznek-II/broken-branches
-
+https://github.com/Eiznek-II/down-the-rabbit-hole-scripts.git
